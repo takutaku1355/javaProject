@@ -98,7 +98,7 @@
     <br>
     <!-- ユーザー画面に遷移するボタン -->
     <form action="User.jsp" method="get">
-        <button type="submit">ユーザー画面へ</button>
+        <button type="submit">ユーザー登録画面へ</button>
     </form>
 </body>
 </html>
